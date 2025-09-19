@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 # Senior Portfolio – Basanagowda Patil
@@ -65,3 +66,7 @@ Feel free to reach out for collaboration, feedback, or opportunities!
 ---
 
 If you appreciate my work, please encourage me! Your support motivates me to keep learning and building.
+=======
+# landing-page
+A senior portfolio landing page for Basanagowda Patil (Kiran-bioinfo), Bioinformatics Engineer.
+>>>>>>> 4b73774ca2fc6ec0940e0bac2f013bb1ef76e2ad
