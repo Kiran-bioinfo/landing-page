@@ -14,8 +14,7 @@ Welcome to my senior portfolio! I am **Basanagowda Patil**, the creator of this 
 
 ## Technologies Used
 
-- **Frontend:** React (TypeScript), Vite, CSS
-- **Backend/Tools:** Python, Node.js
+- **Frontend:** React (TypeScript), HTML, CSS
 - **Other:** Git, VS Code, APIs
 
 ## How to Run Locally
